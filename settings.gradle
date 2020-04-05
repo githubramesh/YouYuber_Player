@@ -1,0 +1,2 @@
+rootProject.name='Kopykitab_YouTube_Player'
+include ':app'
